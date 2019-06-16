@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="4.441" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-06-16T14:05:42" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Seach person" timestamp="2019-06-16T14:05:42" tests="3" failures="0" time="4.441">
+    <testcase name="Seach person Should not search with empty field" time="3.476" classname="Should not search with empty field">
+    </testcase>
+    <testcase name="Seach person Should return person not found" time="0.573" classname="Should return person not found">
+    </testcase>
+    <testcase name="Seach person Should return a person" time="0.392" classname="Should return a person">
+    </testcase>
+  </testsuite>
+</testsuites>

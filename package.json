@@ -1,0 +1,18 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "This project is used to study about cypress and tests",
+  "main": "main.js",
+  "scripts": {
+    "test": "node testApp.js",
+    "start": "node server.js"
+  },
+  "author": "Laís Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.3.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
